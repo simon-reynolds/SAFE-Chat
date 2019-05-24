@@ -10,6 +10,8 @@ testrunner/
 _ReSharper*/
 _UpgradeReport*
 
+dist/Docker/
+
 # Ignore Visual Studio files
 *.pdb
 *.suo
