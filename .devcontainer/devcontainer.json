@@ -1,0 +1,11 @@
+{
+	"name": "Safe-Chat",
+	"dockerFile": "Dockerfile",
+	"appPort": [8080, 8083],
+	"extensions": [
+		"ionide.ionide-fsharp",
+        "ms-vscode.csharp",
+        "editorconfig.editorconfig",
+        "msjsdiag.debugger-for-chrome"
+	]
+}
